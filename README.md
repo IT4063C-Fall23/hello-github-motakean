@@ -26,20 +26,20 @@ Make sure you follow the instructions carefully. You will be asked to complete a
 ## 💭 Reflection and Self Assessment
 
 **I learned:** (repeat as needed)
-- .
+- I learned how to save and commit files to my repository.
 
 **I struggled with:** (repeat as needed)
-- .
+- I didn't struggle with anything.
 
 **I need the instructor to help me with:** (repeat as needed)
-- .
+- Nothing really
 
 **💯 Self Grade:** For this assignment, based on my work and my reflections I should get [ ] out of 20.
-
+20
 ------------------
 ## 📚 References and Citations
 **I used the following links, books, and other resources in my work:** (repeat as needed)
-- .
+- Nothing
   
 **I received help from the following people:** (repeat as needed)
-- . 
+- None
